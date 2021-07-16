@@ -1,4 +1,4 @@
-# TwinsTicketSales
+# Twins Ticket Sales
 Project from the Minnesota Twins.
 
 2021 Strategy & Business Operations Candidate Project
